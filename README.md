@@ -19,6 +19,9 @@ pip install numpy==1.19.3
 
 pip uninstall protobuf
 
+## fix error
+In recent package installations, it is common to encounter compatibility issues with the protobuf version. As a result, it may be necessary to install a lower version to ensure proper functionality and avoid conflicts.
+
 pip install protobuf==3.20
 
 pip install gym==0.2
