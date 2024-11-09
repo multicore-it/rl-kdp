@@ -10,6 +10,18 @@ tensorflow2.2
 
 numpy1.19.3
 
+## install
+pip install tensorflow==2.2
+
+pip unstall numpy
+
+pip install numpy==1.19.3
+
+pip uninstall protobuf
+
+pip install protobuf==3.20
+
+
 ## Table of Contents
 
 **1. Getting Started**
