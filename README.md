@@ -21,7 +21,7 @@ pip uninstall protobuf
 
 pip install protobuf==3.20
 
-pip install gym==2.0
+pip install gym==0.2
 
 
 ## Table of Contents
