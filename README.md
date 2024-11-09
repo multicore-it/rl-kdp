@@ -5,7 +5,9 @@ This page has been created to provide the source code for the Reinforcement Lear
 
 ## The program versions used in the code are as follows:
 python3.7.7
+
 tensorflow2.2
+
 numpy1.19.3
 
 ## Table of Contents
